@@ -7,4 +7,4 @@ def main(list1):
         list: return answer
     """
     return list1[0]
-print(main(list1=[1,2,3,4],))
+print(main(list1=[1,2,3,4],i=1))
